@@ -1,6 +1,6 @@
 [
   {
-    "icon": "Blog",
+    "icon": "PlayCircle",
     "name": "动画",
     "link": "https://emby.lormited.space/"
   },
@@ -28,10 +28,5 @@
     "icon": "LaptopCode",
     "name": "管理",
     "link": "https://panel.lormited.space/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": ""
   }
 ]
