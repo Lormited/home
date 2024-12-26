@@ -96,16 +96,16 @@ const getWeatherData = async () => {
 };
 
 // 报错信息
-const onError = (message) => {
-  ElMessage({
-    message,
-    icon: h(Error, {
-      theme: "filled",
-      fill: "#efefef",
-    }),
-  });
-  console.error(message);
-};
+// const onError = (message) => {
+//   ElMessage({
+//     message,
+//     icon: h(Error, {
+//       theme: "filled",
+//       fill: "#efefef",
+//     }),
+//   });
+//   console.error(message);
+// };
 
 onMounted(() => {
   // 调用获取天气
