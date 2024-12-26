@@ -22,11 +22,11 @@
   {
     "icon": "Book",
     "name": "Zerotier Planet",
-    "link": "https://zerotier.lormited.space/"
+    "link": "http://zerotier.lormited.space/"
   },
   {
     "icon": "LaptopCode",
     "name": "管理",
-    "link": "https://panel.lormited.space/"
+    "link": "http://panel.lormited.space/"
   }
 ]
