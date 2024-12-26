@@ -1,5 +1,5 @@
 <template>
-  <footer id="footer" :class="store.footerBlur ? 'blur' : null">
+  <footer id="footer" :class="store.footerBlur ? '' : null">
     <Transition name="fade" mode="out-in">
       <div v-if="!store.playerState || !store.playerLrcShow" class="power">
         <!-- 以下信息请不要修改哦 -->
