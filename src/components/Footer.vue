@@ -4,7 +4,7 @@
       <div v-if="!store.playerState || !store.playerLrcShow" class="power">
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
-          &amp;&nbsp;Made&nbsp;by
+          Made&nbsp;by
           <a :href="config.github" target="_blank">
             {{ config.author }}
           </a>
