@@ -2,31 +2,31 @@
   {
     "icon": "PlayCircle",
     "name": "动画",
-    "link": "http://emby.lormited.space/"
+    "link": "http://lormited.space/emby"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://alist.lormited.space/"
+    "link": "/alist"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.lormited.space/"
+    "link": "http://lormited.space/music"
   },
   {
     "icon": "Compass",
     "name": "测速",
-    "link": "https://speedtest.lormited.space/"
+    "link": "http://lormited.space/speedtest"
   },
   {
     "icon": "Book",
-    "name": "Zerotier Planet",
-    "link": "http://zerotier.lormited.space/"
+    "name": "文件分享",
+    "link": "http://lormited.space/share"
   },
   {
     "icon": "LaptopCode",
-    "name": "管理",
-    "link": "http://panel.lormited.space/"
+    "name": "网站",
+    "link": "http://lormited.space/status"
   }
 ]
